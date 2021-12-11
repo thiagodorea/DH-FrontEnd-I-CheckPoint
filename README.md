@@ -12,7 +12,6 @@
 <p align="center">
  <a href="#clipboard-pr%C3%A9-requisitos">Pré-requisitos</a> • 
  <a href="#sparkles-come%C3%A7ando">Começando</a> • 
- <a href="#wrench-build">Build</a>
 </p>
 
 ### :clipboard: Pré-requisitos
@@ -40,6 +39,6 @@ npm install
 ~~~~
 
 <p align="right">
-  :small_red_triangle: <a href="#customs-controle-de-acesso">Voltar ao topo</a>
+  :small_red_triangle: <a href="#customs-checkpoint">Voltar ao topo</a>
 </p>
 
